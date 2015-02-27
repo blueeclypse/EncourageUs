@@ -11,7 +11,7 @@ public class Verse {
     public Verse(String verse, int chapter, int verseNum){
         this.verse = verse;
         this.chapter = chapter;
-        this.verseNum = verseNum;  
+        this.verseNum = verseNum;
     }
 
     //returns the verse
